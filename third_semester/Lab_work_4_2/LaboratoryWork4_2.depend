@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543704666 source:c:\users\--\documents\laboratorywork4_2\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+
