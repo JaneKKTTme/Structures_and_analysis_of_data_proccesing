@@ -46,7 +46,7 @@
 *.df            text
 *.htm           text
 *.html          text
-*.java          text
+*.java          linguist-language=Java
 *.js            text
 *.json          text
 *.jsp           text
@@ -80,7 +80,7 @@
 # Source files
 # ============
 *.pxd		text
-*.py 		text
+*.py 		linguist-language=Python
 *.py3 		text
 *.pyw 		text
 *.pyx  		text
