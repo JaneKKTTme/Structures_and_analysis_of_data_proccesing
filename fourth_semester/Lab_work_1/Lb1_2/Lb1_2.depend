@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1551814299 source:c:\users\dell\documents\lb1_2\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+
+1551814299 source:d:\Предметы2\СиАОД\4 семестр\Лабораторные работы\Лабораторная работа №1\lb1_2\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+
+1551814299 source:d:\Предметы\СиАОД\4 семестр\Лабораторная работа №1\lb1_2\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+
